@@ -2,6 +2,10 @@
 
 A complete ML pipeline for outfit recommendation using CLIP embeddings and Transformers.
 
+![outfit_animation_collage](https://github.com/user-attachments/assets/e822311e-cba4-487e-97c2-8d840fbf38fa)
+
+
+
 ## Features
 
 - **Fill-in-the-blank outfit completion**: Given a partial outfit (e.g., a top), recommend items for missing categories (bottoms, shoes, accessories)
